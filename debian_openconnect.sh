@@ -1,11 +1,11 @@
 #!/bin/bash
-cp /usr/share/zoneinfo/Asia/Dubai /etc/localtime
+cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 
 #Database Details
 db_host='209.159.152.66';
-db_user='crypticv_starvpn';
+db_user='crypticv_pxp';
 db_pass='@@@@F1r3n3t';
-db_name='crypticv_starvpn';
+db_name='crypticv_pxp';
 
 install_require()
 {
