@@ -2,9 +2,9 @@
 cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
 HOST='209.159.152.66';
-USER='crypticv_starvpn';
+USER='crypticv_pxp';
 PASS='@@@@F1r3n3t';
-DBNAME='crypticv_starvpn';
+DBNAME='crypticv_pxp';
 
 install_require()
 {
