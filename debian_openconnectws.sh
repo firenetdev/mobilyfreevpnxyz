@@ -1,5 +1,5 @@
 #!/bin/bash
-cp /usr/share/zoneinfo/Asia/Dubai /etc/localtime
+cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 
 #Database Details
 db_host='209.159.152.66';
